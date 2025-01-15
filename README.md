@@ -1,2 +1,2 @@
 # CareerAdvisorUIR
-RAG powered Career Advisor University Project
+Our Career Advisor is an intelligent system designed to assist users in finding personalized career paths and job role recommendations. By leveraging GraphRAG Knowledge Graph and VectorRAG, this AI model analyzes user inputs such as skills, education, and interests to generate data-driven career suggestions. It integrates both knowledge graph reasoning and vector-based retrieval for enhanced recommendations.
