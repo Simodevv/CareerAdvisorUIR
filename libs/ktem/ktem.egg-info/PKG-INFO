@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: ktem
+Version: 0.9.11
+Summary: RAG-based Question and Answering Application
+Author-email: "@trducng" <john@cinnamon.is>, "@lone17" <ian@cinnamon.is>, "@taprosoft" <tadashi@cinnamon.is>, "@cin-albert" <albert@cinnamon.is>
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Requires-Dist: click<9,>=8.1.7
+Requires-Dist: platformdirs<5,>=4.2.1
+Requires-Dist: pluggy<2,>=1.5.0
+Requires-Dist: python-decouple<4,>=3.8
+Requires-Dist: SQLAlchemy<3,>=2.0.29
+Requires-Dist: sqlmodel<0.1,>=0.0.16
+Requires-Dist: tiktoken<1,>=0.6.0
+Requires-Dist: gradio<5,>=4.31.0
+Requires-Dist: python-multipart==0.0.12
+Requires-Dist: markdown<4,>=3.6
+Requires-Dist: tzlocal>=5.0

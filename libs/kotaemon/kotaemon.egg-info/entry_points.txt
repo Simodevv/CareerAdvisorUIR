@@ -1,0 +1,2 @@
+[console_scripts]
+kotaemon = kotaemon.cli:main

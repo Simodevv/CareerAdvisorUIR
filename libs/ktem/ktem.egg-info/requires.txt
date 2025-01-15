@@ -1,0 +1,11 @@
+click<9,>=8.1.7
+platformdirs<5,>=4.2.1
+pluggy<2,>=1.5.0
+python-decouple<4,>=3.8
+SQLAlchemy<3,>=2.0.29
+sqlmodel<0.1,>=0.0.16
+tiktoken<1,>=0.6.0
+gradio<5,>=4.31.0
+python-multipart==0.0.12
+markdown<4,>=3.6
+tzlocal>=5.0
